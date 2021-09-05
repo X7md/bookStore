@@ -1,0 +1,20 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "a projcet for \"satr.codes\"",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github/bookstore-satr.git"
+  },
+  "author": "x7md",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github/bookstore-satr/issues"
+  },
+  "homepage": "https://github.com/github/bookstore-satr#readme"
+}
